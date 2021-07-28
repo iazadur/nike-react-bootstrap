@@ -5,6 +5,15 @@
     --roboto:'Roboto', sans-serif;
     --Bebas:'Bebas Neue', cursive;
 }
+nav{
+    background-image: url(../images/nav-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.ff-roboto{
+    font-family: var(--roboto);
+}
 .nav-text{
     color: #3C3C3C !important;
     font-family:var(--roboto);
